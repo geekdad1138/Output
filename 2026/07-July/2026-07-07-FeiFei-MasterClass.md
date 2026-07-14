@@ -13,3 +13,5 @@ Check out her MasterClass her:
 
 Check out Stanford’s HAI here:
 [Home | Stanford HAI](https://hai.stanford.edu/)
+
+https://www.linkedin.com/posts/daveabraham_ais-futureand-yours-activity-7480300182593622016-OYH5
