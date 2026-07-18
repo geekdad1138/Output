@@ -8,7 +8,5 @@ Some highlights from the article:
 It's exciting to be part of a company bringing the dreams of the future into the reality of today.
 
 Check out the full press release here:
-https://lnkd.in/gWXH2gtB
-
-FANUC Accelerates the Physical AI Through Collaboration with Google AI Agent Powered by Google Operates Robots
-fanuc.co.jp
+[FANUC Accelerates the Physical AI Through Collaboration with Google
+AI Agent Powered by Google Operates Robots](https://www.fanuc.co.jp/en/profile/pr/newsrelease/2026/notice20260513.html)

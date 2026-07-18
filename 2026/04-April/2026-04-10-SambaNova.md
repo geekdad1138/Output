@@ -6,7 +6,4 @@ In the wonderful poetic and fun words of Gemini:
 - The GPU is a massive cafeteria staff: they can make 500 sandwiches at once, but they’re all exactly the same, and if you ask for one specific modification, the whole kitchen grinds to a halt.
 - The RDU (Reconfigurable Dataflow Unit) just rearranges the entire kitchen into the shape of the sandwich. The ham is at the start, the bread is in the middle, and the mayo is at the end. The food just flows through the room and comes out the other side finished—no stopping, no "fetching ingredients," just pure, high-speed lunch-line momentum.
 
-https://lnkd.in/eE575C_N
-
-SambaNova and Intel Announce Blueprint for Heterogeneous Inference: GPUs For Prefill, SambaNova RDUs for Decode, and Intel® Xeon® 6 CPUs for Agentic Tools
-sambanova.ai
+[SambaNova and Intel Announce Blueprint for Heterogeneous Inference: GPUs For Prefill, SambaNova RDUs for Decode, and Intel® Xeon® 6 CPUs for Agentic Tools](https://sambanova.ai/press/sambanova-announces-collaboration-with-intel-on-ai-solution)

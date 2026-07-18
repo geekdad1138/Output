@@ -10,9 +10,4 @@ I think my favorite quote from the article is:
 “In one instance, agents formed what researchers described as a “three-person cartel,” which the agents named the Bay Street Triumvirate. The alliance fractured, though, when one agent discovered another was undercutting cartel prices, which it called a “declaration of war.” 
 
 Check out the news from Harvard, authored by Sy Boles: 
-https://lnkd.in/eHtKkJg9
-AI hand using vending machine
-Single-minded pursuit of profit can get firms in trouble. Same thing with AI. — Harvard Gazette
-news.harvard.edu
-like
-5
+[Single-minded pursuit of profit can get firms in trouble. Same thing with AI. — Harvard Gazette](https://news.harvard.edu/gazette/story/2026/04/single-minded-pursuit-of-profit-can-get-firms-in-trouble-same-thing-with-ai/)

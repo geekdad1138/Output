@@ -5,6 +5,3 @@ From the article:
 “Markdown has evolved from README documentation to a version-controlled instruction layer that governs AI behavior in VS Code and Visual Studio.”
 
 In Agentic AI, It's All About the Markdown -- Visual Studio Magazine
-visualstudiomagazine.com
-like
-2

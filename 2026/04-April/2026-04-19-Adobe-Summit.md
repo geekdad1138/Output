@@ -12,12 +12,7 @@ The powerhouse global media company WPP is partnering with Adobe to use their AI
 It's a big announcement and right on the day when Adobe is launching their Adobe Summit.
 
 Check out the Adobe Summit here, starting today at 2 PM PDT.
-https://lnkd.in/eUxU2et9
+https://business.adobe.com/summit/adobe-summit.html#
 
 Read about the NVIDIA/Adobe/WPP team up here:
-https://lnkd.in/eCBewVrN
-
-Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP
-blogs.nvidia.com
-like
-3
+[Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP](https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/)

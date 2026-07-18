@@ -16,13 +16,8 @@ Also from the article, about this leading to disengagement:
 "If half your workforce is using AI privately to get their existing work done faster, and the time savings go invisible because they cannot acknowledge how they got there, that capacity has nowhere to go. It does not get reinvested into the next big thing. It does not show up as a contribution in their next one-on-one. It sits there, quietly, and over months it becomes disengagement."
 
 Check out Melissa Reeve's Hyperadaptive book here:
-https://lnkd.in/gryPCQ2w
+https://hyperadaptive.solutions/book
 
 The whole article is a great read and worth your time, check it out here:
-https://lnkd.in/gbRMW8MQ
+[Attention AI Transformation Leaders: Half Your Adoption Is Invisible.](https://intel.hyperadaptive.solutions/p/attention-ai-transformation-leaders)
 
-Attention AI Transformation Leaders: Half Your Adoption Is Invisible.
-intel.hyperadaptive.solutions
-likelove
-10
-Derek Hoeft and 9 others

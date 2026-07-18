@@ -9,9 +9,5 @@ From the article:
 
 Very cool.
 
-Read the full article: https://lnkd.in/eKgdmPuA
-
-WSU researchers test AI-driven spectral imaging for identifying recyclable plastics
-news.wsu.edu
-like
-2
+Read the full article:
+[WSU researchers test AI-driven spectral imaging for identifying recyclable plastics](https://news.wsu.edu/news/2026/04/09/wsu-researchers-test-ai-driven-spectral-imaging-for-identifying-recyclable-plastics/)

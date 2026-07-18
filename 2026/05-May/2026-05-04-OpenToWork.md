@@ -7,12 +7,7 @@ A lot of the book talks about being open to work, how to get a job, etc. which s
 Whether you're looking for a job, worried that AI is going to take your job, or just trying to figure out what your place is in the AI enabled workplace, it's worth the read.
 
 Read about the book here:
-https://lnkd.in/gmznuuFh
+[LinkedIn Open to Work](https://www.linkedin.com/opentowork/about)
 
 Or go buy it on Amazon:
-https://lnkd.in/gxHxaYSZ
-
-Open to Work: How to Get Ahead in the Age of AI
-amazon.com
-insightfullike
-3
+[Open to Work: How to Get Ahead in the Age of AI](https://www.amazon.com/Open-Work-How-Get-Ahead/dp/0063486466)

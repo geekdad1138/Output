@@ -11,8 +11,4 @@ Karl Jackson, Jason Doffing, Kyle Binns, Gene Kim
 And thanks to all of the Harness presenters that made it possible.. 
 
 Trevor Stuart, Mridhula V., Hardeep Bath, Jignesh Patel, Adam Arellano, Jyoti Bansal
-
-https://lnkd.in/gmyaaEUg
-
-Developer Experience Summit 2026 | Harness
-harness.io
+[Developer Experience Summit 2026 | Harness](https://www.harness.io/event/developer-experience-summit)

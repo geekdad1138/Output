@@ -8,7 +8,4 @@ In the article Nicole Dezen writes:
 “The first wave of AI was about efficiency, doing the same work faster. The Frontier era is about something bigger: redesigning how intelligence shows up inside work to unlock creativity, innovation, and growth. The real question customers face now is how quickly they are ready to move from experimentation to execution.”
 
 Check the article out here:
-https://lnkd.in/eTF2Ka2H
-
-Leading Frontier Firm transformation with Microsoft 365 E7: The partner opportunity
-partner.microsoft.com
+[Leading Frontier Firm transformation with Microsoft 365 E7: The partner opportunity](https://partner.microsoft.com/en-US/blog/article/agent-365-announcement)

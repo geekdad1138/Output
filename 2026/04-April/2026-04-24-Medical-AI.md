@@ -8,9 +8,4 @@ From the article:
 “Children account for about 22% of the U.S. population but new study finds they make up less than 2% of the public medical imaging datasets used to build tools that help radiologists read scans”
 
 Check out the article from Lauren Erdman at Cincinnati Children’s Hospital:
-https://lnkd.in/etRhi6VR
-
-Was This AI Tool Tested in Children? - Research Horizons
-scienceblog.cincinnatichildrens.org
-insightful
-1
+[Was This AI Tool Tested in Children? - Research Horizons](https://scienceblog.cincinnatichildrens.org/was-this-ai-tool-tested-in-children/)

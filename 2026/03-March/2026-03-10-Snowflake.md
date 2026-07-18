@@ -9,4 +9,4 @@ I think my favorite line was from the opening of the report talking about the wo
 “We’re told that LLMs can’t count the Rs in strawberry, so they’re useless. At the same time, they’re so smart that they’re going to take all our jobs.”
 
 The ROI of Gen AI and Agents 2026 | Snowflake
-snowflake.com
+https://snowflake.com

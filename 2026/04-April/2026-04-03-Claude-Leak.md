@@ -2,9 +2,5 @@ Anthropic statement on the Claude Code CLI leak: “This was a release packaging
 
 That statement kind of sounds like they’re planning to put AI controls in to keep the humans from screwing up. 
 
-CNBC article here: https://lnkd.in/gFzhQWse
-
-Anthropic leaks part of Claude Code's internal source code
-cnbc.com
-like
-1
+CNBC article here: 
+[Anthropic leaks part of Claude Code's internal source code](https://www.cnbc.com/amp/2026/03/31/anthropic-leak-claude-code-internal-source.html)

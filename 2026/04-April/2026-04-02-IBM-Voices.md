@@ -6,9 +6,4 @@ Mati Staniszewski from ElevenLabs says:
 “we're helping organizations replace robotic interactions with AI agents that people actually want to talk to”
 
 Read the full press release here:
-https://lnkd.in/grreRXKd
-
-Enterprise AI Finds its Voice: ElevenLabs and IBM Bring Premium Voice Capabilities to Agentic AI
-newsroom.ibm.com
-like
-3
+[Enterprise AI Finds its Voice: ElevenLabs and IBM Bring Premium Voice Capabilities to Agentic AI](https://newsroom.ibm.com/2026-03-25-enterprise-ai-finds-its-voice-elevenlabs-and-ibm-bring-premium-voice-capabilities-to-agentic-ai)

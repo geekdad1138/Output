@@ -7,10 +7,4 @@ Thanks to all the presenters..
 Reynald Adolphe, Burke Holland, Brigit Murtaugh, Lee Murray, Vijay Upadye 
 
 Check out the video here:
-https://lnkd.in/gVUFdUbm
-Microsoft Reactor
-VS Code Live: April Releases Recap | Microsoft Reactor
-developer.microsoft.com
-likelove
-4
-Farzad Bagheri and 3 others
+[Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/26591/)

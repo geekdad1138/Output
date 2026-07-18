@@ -4,9 +4,4 @@ I really enjoy these types of events that cover a lot of different topics, bring
 
 Thanks to Harness for getting so many great minds together for excellent real discussions, and all the speakers for sharing their wisdom
 
-https://lnkd.in/g-iDNvRT
-
-Harness DevOps Summit 2026 Agenda | March 11 | Register Now
-harness.io
-likecelebrate
-7
+[Harness DevOps Summit 2026 Agenda | March 11 | Register Now](https://www.harness.io/event/dev-ops-summit/agenda)

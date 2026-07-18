@@ -7,9 +7,4 @@ I’ve been at the company for a few decades, and was lucky enough to watch Mike
 Looking forward to where he leads our company in the AI space with physical AI, digital twins and more.
 
 Check out the podcast here:
-https://lnkd.in/d7QnRZz5
-
-FANUC Partners with NVIDIA to Advance Physical AI in Robotics - Mike Cicco, President & CEO of FANUC America - The TechEd Podcast
-techedpodcast.com
-likeinsightful
-12
+[FANUC Partners with NVIDIA to Advance Physical AI in Robotics - Mike Cicco, President & CEO of FANUC America - The TechEd Podcast](https://techedpodcast.com/cicco5/)

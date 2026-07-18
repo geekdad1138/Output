@@ -7,11 +7,7 @@ A four step plan:
 1. Unite, 2. Coach, 3. Build, 4. Triumph.
 
 Read the news article about the report here:
-https://lnkd.in/eJ54DbZ3
-
+[70% of Enterprise AI is Uncontrolled, Driving Hidden Risk, Cost and Slower ROI - Lenovo StoryHub](https://news.lenovo.com/pressroom/press-releases/70-enterprise-ai-uncontrolled-driving-hidden-risk-cost-slower-roi/)
 
 Read their full report here:
-https://lnkd.in/eZ7k-6F3
-
-70% of Enterprise AI is Uncontrolled, Driving Hidden Risk, Cost and Slower ROI - Lenovo StoryHub
-news.lenovo.com
+[Leading Your Workforce to AI triumph](https://s7d1.scene7.com/is/content/Lenovoassetsprod/Lenovo_DWS_Work_Reborn_Report_5_ww_enpdf?refId=dbe07271-97f1-4a21-8d08-079e56c42fbd)

@@ -6,9 +6,6 @@ So much news lately has been about Claude, NVIDIA, and Copilot. But you can be s
 
 Check out the post by Google’s Kevin Ichhpurani 
 here:
- https://lnkd.in/eaE_sfaR
-https://storage.googleapis.com/gweb-cloudblog-publish/images/GCN26_102_BlogHeader_2436x1200_Opt_20_Dark.max-2500x2500.jpg
-How Google Cloud partner ecosystem is building the agentic enterprise | Google Cloud Blog
-cloud.google.com
-like
-2
+[Building the Agentic Enterprise with Google Cloud partners and a $750M innovation fund](https://cloud.google.com/blog/topics/partners/how-google-cloud-partner-ecosystem-is-building-the-agentic-enterprise)
+
+[How Google Cloud partner ecosystem is building the agentic enterprise | Google Cloud Blog]9(https://storage.googleapis.com/gweb-cloudblog-publish/images/GCN26_102_BlogHeader_2436x1200_Opt_20_Dark.max-2500x2500.jpg)

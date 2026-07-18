@@ -5,10 +5,7 @@ I think my favorite part is learning that as an educator he pushes his students 
 It’s given me a lot to think about, from centaurs, to cyborgs, to aliens. It’s a must read.
 
 Buy it on Amazon here:
-https://lnkd.in/gbCUtNzY
+[Co-Intelligence: Living and Working with AI](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)
 
 Check out his website here:
-https://lnkd.in/gUy5u562
-
-Co-Intelligence: Living and Working with AI
-amazon.com
+[One Useful Thing](https://www.oneusefulthing.org/)

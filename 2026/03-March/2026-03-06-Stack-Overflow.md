@@ -3,6 +3,3 @@ Great article over at Stack overflow about the future of humans and AI. Follows 
 From the article: “The collaboration model between humans and AI is multiplicative, not substitutive.” - Eire May
 
 Why demand for code is infinite: How AI creates more developer jobs
-stackoverflow.blog
-likeinsightful
-3

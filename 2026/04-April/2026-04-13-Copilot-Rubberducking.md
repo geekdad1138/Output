@@ -9,7 +9,4 @@ As far as Copilot, the GitHub Copilot CLI now has a feature where you can have o
 Rajeev Pentyala has a great write up with screenshots and step by step instructions for how to do it.
 
 Check it out here: 
-https://lnkd.in/ehADZn8g
-
-GitHub Copilot CLI: Rubber Duck — Your AI Plan Reviewer
-rajeevpentyala.com
+[GitHub Copilot CLI: Rubber Duck — Your AI Plan Reviewer](https://rajeevpentyala.com/2026/04/10/github-copilot-cli-rubber-duck-your-ai-plan-reviewer/)

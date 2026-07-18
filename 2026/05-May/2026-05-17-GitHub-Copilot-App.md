@@ -9,12 +9,4 @@ I gave it a test, told it to make an update on a website using natural language,
 I don't know if we're quite to the place yet where we can completely walk away from the code, but if people truly adopt this tool, it forces you to abstract your thinking away from "On line 36 - refactor this function" and more to "this app/tool/feature needs this addition/change/fix" and then TRUST that the AI model you chose can understand the code base to make the change for you.
 
 Check it out here..
-
-GitHub Copilot app is now available in technical preview
-https://lnkd.in/g9vR2WVG
-
-GitHub Copilot app is now available in technical preview · GitHub Changelog
-github.blog
-like
-3
-Farzad Bagheri and 2 others
+[GitHub Copilot app is now available in technical preview](https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/)

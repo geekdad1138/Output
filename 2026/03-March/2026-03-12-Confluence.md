@@ -2,11 +2,8 @@ I'm fascinated by all of the orchestrated multi-agent systems that people are se
 
 Confluence's blog post about their system is a really great write up, lots of good flow charts and a quick read. You can also download the e-book for a bit longer of a read as a PDF.
 
-The e-book: https://lnkd.in/gJz6sZhi
+The e-book: 
+https://www.confluent.io/resources/ebook/guide-to-event-driven-agents/
 
-The blog: https://lnkd.in/g-xPWsyg
-
-Four Design Patterns for Event-Driven, Multi-Agent Systems
-confluent.io
-like
-3
+The blog:
+https://www.confluent.io/blog/event-driven-multi-agent-systems/

@@ -6,7 +6,4 @@ From the article: “At Mistral, we are proposing a revenue-based levy that woul
 
 Read about it at aibusiness.com: 
 
-https://lnkd.in/gD4qazTi
-
-Mistral CEO Says AI Companies Should Pay a Tax in Europe
-aibusiness.c
+[Mistral CEO Says AI Companies Should Pay a Tax in Europe](https://aibusiness.com/ai-policy/mistral-ceo-says-ai-companies-should-pay-tax-europe)

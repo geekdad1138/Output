@@ -6,9 +6,4 @@ Even the CEO from Canva Melanie Perkins is optimistic about building on top of t
 "We're excited to build on our collaboration with Claude, making it seamless for people to bring ideas and drafts from Claude Design into Canva"
 
 Check out the product release announcement here:
-https://lnkd.in/erw8y2Pj
-Ornate quill pen resting on a detailed hand, positioned against a textured background
-Introducing Claude Design by Anthropic Labs
-anthropic.com
-like
-1
+[Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs)
