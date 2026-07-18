@@ -2,47 +2,40 @@
 
 > `stdout` for my professional insights, technical perspectives, and public commentary.
 
-Welcome to **Output**. This repository serves as a permanent, searchable archive for the thoughts and ideas I share publicly across the web. 
+This repository is a permanent archive of the writing I publish publicly across LinkedIn and other channels. The goal is simple: keep ideas discoverable and searchable long after a social feed has moved on.
 
-Timelines and social feeds are ephemeral, but valuable ideas shouldn't be buried by a feed algorithm. This repo ensures everything I ship to the public domain has a reliable, structured paper trail.
+## Quick navigation
 
----
+- [Browse the 2026 archive](./2026/README.md)
+- [Open the latest month index](./2026/07-July/README.md)
+- [Find me on LinkedIn](https://www.linkedin.com/in/daveabraham/)
 
-## 📂 Structure
+## Browse by month
 
-The archive is organized chronologically to keep the log clean and navigable:
+| Month | Posts |
+| --- | ---: |
+| [January](2026/01-January/README.md) | 0 |
+| [February](2026/02-February/README.md) | 3 |
+| [March](2026/03-March/README.md) | 31 |
+| [April](2026/04-April/README.md) | 31 |
+| [May](2026/05-May/README.md) | 28 |
+| [June](2026/06-June/README.md) | 14 |
+| [July](2026/07-July/README.md) | 13 |
 
-```text
-📁 output/
-├── 📁 2026/
-│   ├── 📁 07-july/
-│   │   └── 📄 2026-07-07-on-spec-driven-development.md
-│   └── 📄 README.md
-└── 📄 README.md
+## Recent posts
 
-```
+- [GPTSol UltraMode](2026/07-July/2026-07-14-GPTSol-UltraMode.md)
+- [Act Now](2026/07-July/2026-07-13-Act-Now.md)
+- [Apple Lawsuit](2026/07-July/2026-07-12-Apple-Lawsuit.md)
+- [Gemini Hallucination](2026/07-July/2026-07-11-Gemini-Hallucination.md)
+- [ChatGPT Live](2026/07-July/2026-07-10-ChatGPT-Live.md)
+- [RHINE](2026/07-July/2026-07-09-RHINE.md)
+- [FeiFei MasterClass](2026/07-July/2026-07-08-FeiFei-MasterClass.md)
+- [DeepSeek DSpark](2026/07-July/2026-07-07-DeepSeek-DSpark.md)
+- [OpenAI GPT5 6](2026/07-July/2026-07-06-OpenAI-GPT5-6.md)
+- [AlloraLabs Forge](2026/07-July/2026-07-05-AlloraLabs-Forge.md)
+- [Databricks GPU Rot](2026/07-July/2026-07-04-Databricks-GPU-Rot.md)
+- [Microsoft Retirees](2026/07-July/2026-07-02-Microsoft-Retirees.md)
 
-Each entry is preserved as a Markdown file, capturing the original text, relevant code blocks, links, and the date it went live.
+This archive is intentionally lightweight so it can be browsed quickly from GitHub, cloned for reference, or linked to from other places.
 
----
-
-## 🏷️ Core Topics
-
-While the focus shifts depending on what I'm building, the log generally covers:
-
-* **Architecture & Engineering:** Technical deep-dives, development workflows, and system design.
-* **Industry Perspectives:** Thoughts on where software and technology are heading.
-* **Lessons Learned:** Quick wins, paradigm shifts, and practical discoveries from the field.
-
----
-
-## 🌐 Find Me Online
-
-If you stumbled upon this repository directly, you can find the original context and active discussions here:
-
-* [LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL_HERE)
-* [Personal Website/Blog](https://www.google.com/search?q=YOUR_URL_HERE)
-
-How does the shift to **Output** feel? Ready to spin up the repo?
-
-```
