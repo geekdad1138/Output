@@ -7,7 +7,7 @@ This repository is a permanent archive of the writing I publish publicly across 
 ## Quick navigation
 
 - [Browse the 2026 archive](./2026/README.md)
-- [Open the latest month index](./2026/07-July/README.md)
+- [Open the latest month index](./2026/08-August/README.md)
 - [Find me on LinkedIn](https://www.linkedin.com/in/daveabraham/)
 
 ## Browse by month
@@ -20,22 +20,23 @@ This repository is a permanent archive of the writing I publish publicly across 
 | [April](2026/04-April/README.md) | 31 |
 | [May](2026/05-May/README.md) | 28 |
 | [June](2026/06-June/README.md) | 14 |
-| [July](2026/07-July/README.md) | 22 |
+| [July](2026/07-July/README.md) | 31 |
+| [August](2026/08-August/README.md) | 13 |
 
 ## Recent posts
 
-- [Fujitsju](2026/07-July/2026-07-17-Fujitsju.md)
-- [TankerVision](2026/07-July/2026-07-16-TankerVision.md)
-- [SenseNet](2026/07-July/2026-07-16-SenseNet.md)
-- [Minnesota](2026/07-July/2026-07-16-Minnesota.md)
-- [Johns Hopkins](2026/07-July/2026-07-16-Johns-Hopkins.md)
-- [FireSat](2026/07-July/2026-07-16-FireSat.md)
-- [Cires Wildfire](2026/07-July/2026-07-16-Cires-Wildfire.md)
-- [AlertWest](2026/07-July/2026-07-16-AlertWest.md)
-- [Breakthrough](2026/07-July/2026-07-15-Breakthrough.md)
-- [GPTSol UltraMode](2026/07-July/2026-07-14-GPTSol-UltraMode.md)
-- [Act Now](2026/07-July/2026-07-13-Act-Now.md)
-- [Apple Lawsuit](2026/07-July/2026-07-12-Apple-Lawsuit.md)
+- [Copter](2026/08-August/2026-08-14-Copter.md)
+- [DefCon](2026/08-August/2026-08-12-DefCon.md)
+- [Claude](2026/08-August/2026-08-11-Claude.md)
+- [EU](2026/08-August/2026-08-10-EU.md)
+- [Meta](2026/08-August/2026-08-09-Meta.md)
+- [NanoBanana](2026/08-August/2026-08-08-NanoBanana.md)
+- [Taalas](2026/08-August/2026-08-07-Taalas.md)
+- [Empire](2026/08-August/2026-08-06-Empire.md)
+- [Astra](2026/08-August/2026-08-05-Astra.md)
+- [Vlash](2026/08-August/2026-08-04-Vlash.md)
+- [Berkeley](2026/08-August/2026-08-03-Berkeley.md)
+- [Lidar](2026/08-August/2026-08-02-Lidar.md)
 
 This archive is intentionally lightweight so it can be browsed quickly from GitHub, cloned for reference, or linked to from other places.
 
