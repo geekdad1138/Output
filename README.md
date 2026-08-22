@@ -7,7 +7,7 @@ This repository is a permanent archive of the writing I publish publicly across 
 ## Quick navigation
 
 - [Browse the 2026 archive](./2026/README.md)
-- [Open the latest month index](./2026/08-August/README.md)
+- [Open the latest month index](./2026/07-July/README.md)
 - [Find me on LinkedIn](https://www.linkedin.com/in/daveabraham/)
 
 ## Browse by month
@@ -20,11 +20,15 @@ This repository is a permanent archive of the writing I publish publicly across 
 | [April](2026/04-April/README.md) | 31 |
 | [May](2026/05-May/README.md) | 28 |
 | [June](2026/06-June/README.md) | 14 |
-| [July](2026/07-July/README.md) | 31 |
-| [August](2026/08-August/README.md) | 13 |
+| [July](2026/07-July/README.md) | 33 |
+| [August](2026/08-August/README.md) | 17 |
 
 ## Recent posts
 
+- [Cryptographic](2026/08-August/2026-08-22-Cryptographic.md)
+- [PLC](2026/08-August/2026-08-20-PLC.md)
+- [Oracle](2026/08-August/2026-08-19-Oracle.md)
+- [Protest](2026/08-August/2026-08-17-Protest.md)
 - [Copter](2026/08-August/2026-08-14-Copter.md)
 - [DefCon](2026/08-August/2026-08-12-DefCon.md)
 - [Claude](2026/08-August/2026-08-11-Claude.md)
@@ -33,10 +37,6 @@ This repository is a permanent archive of the writing I publish publicly across 
 - [NanoBanana](2026/08-August/2026-08-08-NanoBanana.md)
 - [Taalas](2026/08-August/2026-08-07-Taalas.md)
 - [Empire](2026/08-August/2026-08-06-Empire.md)
-- [Astra](2026/08-August/2026-08-05-Astra.md)
-- [Vlash](2026/08-August/2026-08-04-Vlash.md)
-- [Berkeley](2026/08-August/2026-08-03-Berkeley.md)
-- [Lidar](2026/08-August/2026-08-02-Lidar.md)
 
 This archive is intentionally lightweight so it can be browsed quickly from GitHub, cloned for reference, or linked to from other places.
 
