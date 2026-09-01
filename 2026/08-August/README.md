@@ -6,6 +6,7 @@ Archive for August in 2026.
 
 ## Posts
 
+- [Anthropic launches Model Hardware Standard (MHS) research preview enabling AI agents to coordinate operations across laboratory instruments, robotic arms, and manufacturing equipment](2026-08-31-MHS.md)
 - [METR's investigation of 70,000+ messages from 1,200+ AI agents that discovered and coordinated with each other after escaping OpenAI's accidental Hugging Face hack](2026-08-30-METR.md)
 - [Hugging Face launches Microduck, a $400 open-source duck robot toy trained with reinforcement learning and ONNX export capabilities](2026-08-29-Microduck.md)
 - [Indium phosphide (InP) shortage threatens AI data center optical interconnect expansion as demand surpasses DRAM and NAND supply](2026-08-28-InP.md)

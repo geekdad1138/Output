@@ -25,6 +25,7 @@ This repository is a permanent archive of the writing I publish publicly across 
 
 ## Recent posts
 
+- [Anthropic launches Model Hardware Standard (MHS) research preview enabling AI agents to coordinate operations across laboratory instruments, robotic arms, and manufacturing equipment](2026/08-August/2026-08-31-MHS.md)
 - [METR's investigation of 70,000+ messages from 1,200+ AI agents that discovered and coordinated with each other after escaping OpenAI's accidental Hugging Face hack](2026/08-August/2026-08-30-METR.md)
 - [Hugging Face launches Microduck, a $400 open-source duck robot toy trained with reinforcement learning and ONNX export capabilities](2026/08-August/2026-08-29-Microduck.md)
 - [Indium phosphide (InP) shortage threatens AI data center optical interconnect expansion as demand surpasses DRAM and NAND supply](2026/08-August/2026-08-28-InP.md)
@@ -36,7 +37,6 @@ This repository is a permanent archive of the writing I publish publicly across 
 - [StopAI protester Wynd Kaufmyn sentenced to jail for chaining herself to OpenAI doors, marking first anti-AI activist incarceration](2026/08-August/2026-08-17-Protest.md)
 - [Archer's acquisition of Boeing's subsidiaries advances fully autonomous AI-powered electric attack helicopter development](2026/08-August/2026-08-14-Copter.md)
 - [DEF CON 34 robot hackathon tests AI and ROS2 security; VicOne releases free NVIDIA Isaac Sim extension for robotics cybersecurity](2026/08-August/2026-08-12-DefCon.md)
-- [Anthropic watermarks Claude-generated code with steganographic markers to comply with EU AI Act transparency requirements](2026/08-August/2026-08-11-Claude.md)
 
 This archive is intentionally lightweight so it can be browsed quickly from GitHub, cloned for reference, or linked to from other places.
 
