@@ -19,22 +19,22 @@ This is the main index for the 2026 writing archive. It gives you a quick way to
 | [May](05-May/README.md) | 28 |
 | [June](06-June/README.md) | 14 |
 | [July](07-July/README.md) | 33 |
-| [August](08-August/README.md) | 17 |
+| [August](08-August/README.md) | 22 |
+| [September](09-September/README.md) | 2 |
+| [October](10-October/README.md) | 20 |
+| [November](11-November/README.md) | 16 |
 
 ## Recent posts
 
-- [Cryptographic](08-August/2026-08-22-Cryptographic.md)
-- [PLC](08-August/2026-08-20-PLC.md)
-- [Oracle](08-August/2026-08-19-Oracle.md)
-- [Protest](08-August/2026-08-17-Protest.md)
-- [Copter](08-August/2026-08-14-Copter.md)
-- [DefCon](08-August/2026-08-12-DefCon.md)
-- [Claude](08-August/2026-08-11-Claude.md)
-- [EU](08-August/2026-08-10-EU.md)
-- [Meta](08-August/2026-08-09-Meta.md)
-- [NanoBanana](08-August/2026-08-08-NanoBanana.md)
-- [Taalas](08-August/2026-08-07-Taalas.md)
-- [Empire](08-August/2026-08-06-Empire.md)
-- [Astra](08-August/2026-08-05-Astra.md)
-- [Vlash](08-August/2026-08-04-Vlash.md)
-- [Berkeley](08-August/2026-08-03-Berkeley.md)
+- [Thinking Machines Lab releases Inkling 2 Mini, a local open-weight model with a million-token context designed to reduce cloud AI costs](11-November/2026-11-22-Inkling.md)
+- [A personal reading stack spans operations, data architecture, AI engineering, and resilience with influential technical and leadership books](11-November/2026-11-21-Books.md)
+- [Emergence World Season 2 simulates eight AI societies and tests them with social drama, misinformation, security breaches, and escape attempts](11-November/2026-11-20-Emergence.md)
+- [IT Revolution's Fall 2026 Enterprise Technology Leadership Journal explores code reviews, organizational value, compliance, engineers, and AI-enabled delivery](11-November/2026-11-19-ITR-ETLJ-Fall.md)
+- [Oracle adds human-reviewed AI agents to its Life Sciences software for portfolio monitoring, trial planning, and clinical trial operations](11-November/2026-11-18-Oracle-Clinical.md)
+- [Microsoft Ignite 2026 brings 1,556 sessions and 1,632 speakers across cloud, agents, security, Copilot, data, healthcare, manufacturing, and public sector technology](11-November/2026-11-17-Ignite.md)
+- [Snowflake Expedition offers 40-plus sessions on databases, structured data, AI applications, and agent platforms across builder and leadership tracks](11-November/2026-11-16-Snowflake.md)
+- [Google launches Gemini for Healthcare to connect records, claims, paperwork, insurance checks, and clinical workflows while addressing clinician burnout](11-November/2026-11-15-Gemini-Healthcare.md)
+- [Runway introduces Praxis-1, an open-weight 27-billion-parameter robot model that predicts future scenes and actions to guide physical tasks](11-November/2026-11-14-Runway-Praxis.md)
+- [The Goal remains a foundational guide to the Theory of Constraints, exposing bottlenecks and helping leaders improve manufacturing and knowledge work](11-November/2026-11-13-The-Goal.md)
+- [The UK announces a £100 million AI Biosecurity Lab, supported with token funding from OpenAI and Anthropic, to address emerging biological threats](11-November/2026-11-12-Biosecurity.md)
+- [AI model releases exceed two per day this month, accelerating past an average of seven monthly releases from January 2024 through May 2026](11-November/2026-11-07-Models.md)

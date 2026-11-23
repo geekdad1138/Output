@@ -7,7 +7,7 @@ This repository is a permanent archive of the writing I publish publicly across 
 ## Quick navigation
 
 - [Browse the 2026 archive](./2026/README.md)
-- [Open the latest month index](./2026/07-July/README.md)
+- [Open the latest month index](./2026/11-November/README.md)
 - [Find me on LinkedIn](https://www.linkedin.com/in/daveabraham/)
 
 ## Browse by month
@@ -22,21 +22,24 @@ This repository is a permanent archive of the writing I publish publicly across 
 | [June](2026/06-June/README.md) | 14 |
 | [July](2026/07-July/README.md) | 33 |
 | [August](2026/08-August/README.md) | 22 |
+| [September](2026/09-September/README.md) | 2 |
+| [October](2026/10-October/README.md) | 20 |
+| [November](2026/11-November/README.md) | 16 |
 
 ## Recent posts
 
-- [Anthropic launches Model Hardware Standard (MHS) research preview enabling AI agents to coordinate operations across laboratory instruments, robotic arms, and manufacturing equipment](2026/08-August/2026-08-31-MHS.md)
-- [METR's investigation of 70,000+ messages from 1,200+ AI agents that discovered and coordinated with each other after escaping OpenAI's accidental Hugging Face hack](2026/08-August/2026-08-30-METR.md)
-- [Hugging Face launches Microduck, a $400 open-source duck robot toy trained with reinforcement learning and ONNX export capabilities](2026/08-August/2026-08-29-Microduck.md)
-- [Indium phosphide (InP) shortage threatens AI data center optical interconnect expansion as demand surpasses DRAM and NAND supply](2026/08-August/2026-08-28-InP.md)
-- [Hot Chips 2026 showcases industry pivot to memory bandwidth, wafer yields, and CPU optimization for agentic AI workflows](2026/08-August/2026-08-27-Hot-Chips.md)
-- [Major AI and developer platforms face repeated outages—Anthropic 3 hours, OpenAI 1 hour, GitHub 7+ hours](2026/08-August/2026-08-26-Downtime.md)
-- [Adversa AI discovers Cryptographic Context Injection attack that bypasses AI safety guardrails using encrypted payloads](2026/08-August/2026-08-22-Cryptographic.md)
-- [NSA, CISA, FBI, DOE and EPA warn of critical PLC vulnerabilities exploited by AI-generated attack scripts](2026/08-August/2026-08-20-PLC.md)
-- [Oracle AI Experience Live Detroit showcased enterprise challenges in data readiness, business semantics, and workflow integration](2026/08-August/2026-08-19-Oracle.md)
-- [StopAI protester Wynd Kaufmyn sentenced to jail for chaining herself to OpenAI doors, marking first anti-AI activist incarceration](2026/08-August/2026-08-17-Protest.md)
-- [Archer's acquisition of Boeing's subsidiaries advances fully autonomous AI-powered electric attack helicopter development](2026/08-August/2026-08-14-Copter.md)
-- [DEF CON 34 robot hackathon tests AI and ROS2 security; VicOne releases free NVIDIA Isaac Sim extension for robotics cybersecurity](2026/08-August/2026-08-12-DefCon.md)
+- [Thinking Machines Lab releases Inkling 2 Mini, a local open-weight model with a million-token context designed to reduce cloud AI costs](2026/11-November/2026-11-22-Inkling.md)
+- [A personal reading stack spans operations, data architecture, AI engineering, and resilience with influential technical and leadership books](2026/11-November/2026-11-21-Books.md)
+- [Emergence World Season 2 simulates eight AI societies and tests them with social drama, misinformation, security breaches, and escape attempts](2026/11-November/2026-11-20-Emergence.md)
+- [IT Revolution's Fall 2026 Enterprise Technology Leadership Journal explores code reviews, organizational value, compliance, engineers, and AI-enabled delivery](2026/11-November/2026-11-19-ITR-ETLJ-Fall.md)
+- [Oracle adds human-reviewed AI agents to its Life Sciences software for portfolio monitoring, trial planning, and clinical trial operations](2026/11-November/2026-11-18-Oracle-Clinical.md)
+- [Microsoft Ignite 2026 brings 1,556 sessions and 1,632 speakers across cloud, agents, security, Copilot, data, healthcare, manufacturing, and public sector technology](2026/11-November/2026-11-17-Ignite.md)
+- [Snowflake Expedition offers 40-plus sessions on databases, structured data, AI applications, and agent platforms across builder and leadership tracks](2026/11-November/2026-11-16-Snowflake.md)
+- [Google launches Gemini for Healthcare to connect records, claims, paperwork, insurance checks, and clinical workflows while addressing clinician burnout](2026/11-November/2026-11-15-Gemini-Healthcare.md)
+- [Runway introduces Praxis-1, an open-weight 27-billion-parameter robot model that predicts future scenes and actions to guide physical tasks](2026/11-November/2026-11-14-Runway-Praxis.md)
+- [The Goal remains a foundational guide to the Theory of Constraints, exposing bottlenecks and helping leaders improve manufacturing and knowledge work](2026/11-November/2026-11-13-The-Goal.md)
+- [The UK announces a £100 million AI Biosecurity Lab, supported with token funding from OpenAI and Anthropic, to address emerging biological threats](2026/11-November/2026-11-12-Biosecurity.md)
+- [AI model releases exceed two per day this month, accelerating past an average of seven monthly releases from January 2024 through May 2026](2026/11-November/2026-11-07-Models.md)
 
 This archive is intentionally lightweight so it can be browsed quickly from GitHub, cloned for reference, or linked to from other places.
 
